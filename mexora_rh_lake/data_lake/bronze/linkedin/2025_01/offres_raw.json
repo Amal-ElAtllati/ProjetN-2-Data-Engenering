@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "source_fichier": "../offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-04-25T23:48:06.543633",
+    "partition": "linkedin/2025_01",
+    "nb_offres": 1
+  },
+  "offres": [
+    {
+      "id_offre": "RK-2024-37952",
+      "source": "linkedin",
+      "titre_poste": "Data Scientist",
+      "description": "Nous recherchons un candidat pour le poste de SysAdmin. Vous devrez maîtriser Hadoop, Spark, Python. Le candidat devra travailler en méthode Agile avec une équipe de 9 personnes. bla bla bla bla bla bla bla bla bla bla bla bla",
+      "competences_brut": "Machine Learning, Python, R, NLP",
+      "entreprise": "RabatAnalytics",
+      "ville": "RABAT",
+      "type_contrat": "Permanent",
+      "experience_requise": "1-2 ans",
+      "salaire_brut": "25K-30K",
+      "niveau_etudes": "Bac+2",
+      "secteur": "Banque / Finance",
+      "date_publication": "2025-01-05",
+      "date_expiration": "2024-11-19",
+      "nb_postes": 3,
+      "teletravail": "Non",
+      "langue_requise": [
+        "Espagnol"
+      ]
+    }
+  ]
+}

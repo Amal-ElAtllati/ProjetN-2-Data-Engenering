@@ -1,0 +1,16 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+TechMaroc SARL,Informatique,PME,Casablanca,www.techmaroc.ma,SSII
+DataMakers,Informatique,Startup,Rabat,www.datamakers.ma,Produit
+BankAlMaghrib,Banque,Grande Entreprise,Rabat,www.bkam.ma,Banque
+TelecomPlus,Telecom,Grande Entreprise,Casablanca,www.telecomplus.ma,Telecom
+TangerData,Informatique,Startup,Tanger,www.tangerdata.ma,Produit
+CasaConsulting,Conseil,ETI,Casablanca,www.casaconsulting.ma,Conseil
+MarocCloud,Informatique,PME,Marrakech,www.maroccloud.ma,SSII
+AgileDev,Informatique,Startup,Casablanca,www.agiledev.ma,SSII
+FinTechMaroc,Banque,PME,Casablanca,www.fintechmaroc.ma,Produit
+SmartSolutions,Informatique,ETI,Tanger,www.smartsolutions.ma,Conseil
+WebDevAtlas,Informatique,Startup,Fès,www.webdevatlas.ma,SSII
+InnoBank,Banque,Grande Entreprise,Casablanca,www.innobank.ma,Banque
+TechTanger,Informatique,PME,Tanger,www.techtanger.ma,SSII
+RabatAnalytics,Conseil,PME,Rabat,www.rabatanalytics.ma,Conseil
+CloudNet,Telecom,ETI,Casablanca,www.cloudnet.ma,Telecom

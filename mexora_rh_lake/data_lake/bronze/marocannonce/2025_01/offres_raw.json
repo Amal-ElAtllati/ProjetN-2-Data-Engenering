@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "source_fichier": "../offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-04-25T23:48:06.540963",
+    "partition": "marocannonce/2025_01",
+    "nb_offres": 1
+  },
+  "offres": [
+    {
+      "id_offre": "RK-2023-25362",
+      "source": "marocannonce",
+      "titre_poste": "BI Analyst",
+      "description": "Nous recherchons un candidat pour le poste de Ingénieur Big Data. Vous devrez maîtriser Java, Spring Boot, Oracle. Le candidat devra travailler en méthode Agile avec une équipe de 4 personnes. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+      "competences_brut": "Machine Learning, Python, R, NLP",
+      "entreprise": "TelecomPlus",
+      "ville": "CASABLANCA",
+      "type_contrat": "Permanent",
+      "experience_requise": "Débutant accepté",
+      "salaire_brut": "12K-15K",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Banque / Finance",
+      "date_publication": "2025-01-19",
+      "date_expiration": "2024-11-21",
+      "nb_postes": 5,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Arabe",
+        "Anglais",
+        "Français"
+      ]
+    }
+  ]
+}

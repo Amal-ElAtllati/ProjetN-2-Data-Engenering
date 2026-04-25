@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "source_fichier": "../offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-04-25T23:48:06.537258",
+    "partition": "rekrute/2024_12",
+    "nb_offres": 3
+  },
+  "offres": [
+    {
+      "id_offre": "RK-2024-95975",
+      "source": "rekrute",
+      "titre_poste": "Backend Dev",
+      "description": "Nous recherchons un candidat pour le poste de Analyste Data. Vous devrez maîtriser Python, SQL, AWS. Le candidat devra travailler en méthode Agile avec une équipe de 4 personnes. bla bla bla bla bla bla bla bla bla bla bla bla bla",
+      "competences_brut": "Python / Django / Git",
+      "entreprise": "MarocCloud",
+      "ville": "Tanger",
+      "type_contrat": "CDD",
+      "experience_requise": "3-5 ans",
+      "salaire_brut": "15000-20000 MAD",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Banque / Finance",
+      "date_publication": "2024-12-19",
+      "date_expiration": "2024-10-22",
+      "nb_postes": 3,
+      "teletravail": "Total (100% remote)",
+      "langue_requise": [
+        "Arabe",
+        "Anglais",
+        "Espagnol"
+      ]
+    },
+    {
+      "id_offre": "RK-2023-99971",
+      "source": "rekrute",
+      "titre_poste": "Développeur Full Stack React/Node.js",
+      "description": "Nous recherchons un candidat pour le poste de Frontend Angular. Vous devrez maîtriser AWS, GCP, Azure, Docker. Le candidat devra travailler en méthode Agile avec une équipe de 6 personnes. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+      "competences_brut": "Python, SQL, AWS",
+      "entreprise": "TechTanger",
+      "ville": "Fès",
+      "type_contrat": "Permanent",
+      "experience_requise": "Junior",
+      "salaire_brut": "Selon profil",
+      "niveau_etudes": null,
+      "secteur": "Banque / Finance",
+      "date_publication": "2024-12-18",
+      "date_expiration": "2024-11-05",
+      "nb_postes": 5,
+      "teletravail": "Non",
+      "langue_requise": [
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "RK-2023-61409",
+      "source": "rekrute",
+      "titre_poste": "Data Eng.",
+      "description": "Nous recherchons un candidat pour le poste de Backend Dev. Vous devrez maîtriser Python, Spark, Kafka, Airflow. Le candidat devra travailler en méthode Agile avec une équipe de 5 personnes. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+      "competences_brut": "Power BI, SQL, Tableau",
+      "entreprise": "AgileDev",
+      "ville": "Casablanca",
+      "type_contrat": "CDI",
+      "experience_requise": "Stage",
+      "salaire_brut": "20000-25000 MAD",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Autre",
+      "date_publication": "2024-12-02",
+      "date_expiration": "2024-10-27",
+      "nb_postes": 5,
+      "teletravail": "Total (100% remote)",
+      "langue_requise": [
+        "Arabe",
+        "Français",
+        "Espagnol"
+      ]
+    }
+  ]
+}
