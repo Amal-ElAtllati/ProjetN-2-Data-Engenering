@@ -1,32 +1,25 @@
 {
   "metadata": {
     "source_fichier": "../offres_emploi_it_maroc.json",
-    "date_ingestion": "2026-04-25T23:48:06.534212",
+    "date_ingestion": "2026-04-27T17:50:05.764935",
     "partition": "marocannonce/2024_12",
     "nb_offres": 1
   },
   "offres": [
     {
-      "id_offre": "RK-2023-24010",
-      "source": "marocannonce",
-      "titre_poste": "Développeur BI",
-      "description": "Nous recherchons un candidat pour le poste de React JS Developer. Vous devrez maîtriser AWS, GCP, Azure, Docker. Le candidat devra travailler en méthode Agile avec une équipe de 3 personnes. bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
-      "competences_brut": null,
-      "entreprise": "TangerData",
-      "ville": "Marrakech",
-      "type_contrat": "CDD",
-      "experience_requise": "5-7 ans",
-      "salaire_brut": null,
-      "niveau_etudes": "Bac+2",
-      "secteur": "Informatique / Télécom",
+      "id_offre": "RK-2023-53352",
+      "source": "MarocAnnonce",
+      "titre_poste": "Architecte Big Data",
+      "description": "Nous recherchons un candidat pour le poste de ML Engineer. Vous devrez maîtriser Power BI, DAX, SQL.",
+      "competences_brut": "Google Cloud, BigQuery",
+      "entreprise": "SmartSolutions",
+      "ville": "CASABLANCA",
+      "type_contrat": "Freelance / Indépendant",
+      "experience_requise": "Débutant",
+      "salaire_brut": "1800 EUR",
       "date_publication": "2024-12-21",
-      "date_expiration": "2024-11-01",
-      "nb_postes": 4,
-      "teletravail": "Non",
-      "langue_requise": [
-        "Français",
-        "Arabe"
-      ]
+      "date_expiration": "2024-11-04",
+      "teletravail": "Hybride"
     }
   ]
 }
