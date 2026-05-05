@@ -1,3 +1,4 @@
+# Document (PDF/Texte)
 # Document de Conception de l'Architecture Data Lake - Mexora RH Intelligence
 
 ## 1. Justification des Formats de Stockage
