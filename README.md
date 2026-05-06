@@ -2,7 +2,7 @@
 
 Ce projet implémente un Data Lake complet (Bronze, Silver, Gold) pour l'analyse du marché de l'emploi IT au Maroc.
 
-## 🚀 Comment reproduire le pipeline
+## Comment reproduire le pipeline
 
 1. **Prérequis :** Python 3.10+, DuckDB, Pandas, Seaborn.
 2. **Installation :**
@@ -19,5 +19,5 @@ Ce projet implémente un Data Lake complet (Bronze, Silver, Gold) pour l'analyse
 4. **Visualisation :**
    Ouvrez le notebook `Livrables/Étape 3 — Analyse DuckDB.ipynb` pour voir les graphiques.
 
-## 👥 Contributeurs
+##  Contributeurs
 Projet réalisé par **Amal & Hanane**.
